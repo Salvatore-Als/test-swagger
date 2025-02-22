@@ -1,1 +1,9 @@
-
+{
+    "url": "https://raw.githubusercontent.com/Salvatore-Als/test-swagger.yaml/refs/heads/main/test-swagger.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/Salvatore-Als/test-swagger.yaml/refs/heads/main/test-swagger.yaml",
+            "name": "Test"
+        }
+    ]
+}
